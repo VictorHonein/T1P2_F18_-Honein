@@ -1,0 +1,1 @@
+sh exec_file.sh log.txt
