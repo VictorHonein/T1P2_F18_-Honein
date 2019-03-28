@@ -1,0 +1,2 @@
+alias MECH326="cd ~/Documents/University/Spring\ 2019/MECH326\ Modeling\ and\ Simulation\ in\ ME/"
+
