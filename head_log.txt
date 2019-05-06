@@ -1,0 +1,8 @@
+commit 3b0bbc750f60290360875248218be97575f825fd (HEAD -> master, origin/master)
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Mon Apr 29 23:59:46 2019 +0300
+
+    still doing bonus :)
+
+commit 8bb023e78cc2d472726e4e8b6c4addeeffb5a54c
+Author: Victor Honein <vshonein@gmail.com>

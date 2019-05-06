@@ -1,4 +1,40 @@
-commit f5e8cde3ec26886b6aa08e6ac8fcd36b53c9a980 (HEAD -> master, origin/master)
+commit 3b0bbc750f60290360875248218be97575f825fd (HEAD -> master, origin/master)
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Mon Apr 29 23:59:46 2019 +0300
+
+    still doing bonus :)
+
+commit 8bb023e78cc2d472726e4e8b6c4addeeffb5a54c
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Thu Mar 28 11:57:36 2019 +0200
+
+    bonus3
+
+commit 9ea49135e9e792fb9a2f355279b6645ed37ee072
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Thu Mar 28 11:54:33 2019 +0200
+
+    bonus 2
+
+commit 2d407862cc28aabee07697bf40acdf5283d096c4
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Thu Mar 28 11:39:44 2019 +0200
+
+    this is the first bonus. I did it after class
+
+commit b7c60cd8ce9b299b003b5def45a71a046b1c1899
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Thu Mar 28 11:26:25 2019 +0200
+
+    newfile contains the aliases
+
+commit 03452664e6f24f288e7471790e71c4831c67ebb6
+Author: Victor Honein <vshonein@gmail.com>
+Date:   Thu Mar 28 11:04:20 2019 +0200
+
+    fifth version
+
+commit f5e8cde3ec26886b6aa08e6ac8fcd36b53c9a980
 Author: Victor Honein <vshonein@gmail.com>
 Date:   Thu Mar 28 11:01:02 2019 +0200
 
@@ -21,4 +57,3 @@ Author: Victor Honein <vshonein@gmail.com>
 Date:   Thu Mar 28 10:34:13 2019 +0200
 
     first version
-
